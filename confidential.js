@@ -5,7 +5,7 @@ function me() {
  
     if (user=='4455' && pass=='4455') {
     
-    window.location.href="player.html";
+    window.location.href="loader2.0.html";
  
        
      
