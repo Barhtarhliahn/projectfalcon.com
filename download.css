@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+   
+}
+
+
+body{
+    background: #011015;
+}   
+    
+.a, .d ,.button, .ret{
+  border: none;
+    padding: 7px 35px;
+    cursor: pointer;
+    outline: none;
+    background: #45f3ff;
+    color: #000;
+    font-size: 20px;
+    border-radius: 50px;
+font-weight: bold;
+font-style: italic;
+}
+
