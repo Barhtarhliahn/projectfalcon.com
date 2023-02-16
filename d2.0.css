@@ -29,7 +29,7 @@ body{
         left: -50%;
         width: 380px;
         height: 420px;
-        background: linear-gradient(0deg, transparent,blue,blue);
+        background: linear-gradient(0deg, transparent,#45f3ff,#45f3ff);
         transform-origin: bottom right;
         animation: animate 6s linear infinite;
     }
@@ -41,7 +41,7 @@ body{
         left: -50%;
         width: 380px;
         height: 420px;
-        background: linear-gradient(0deg, transparent,blue,blue);
+        background: linear-gradient(0deg, transparent,#45f3ff,#45f3ff);
         transform-origin: bottom right;
         animation: animate 6s linear infinite;
         animation-delay: -3s;
@@ -71,7 +71,7 @@ body{
    }
 
 .form h2{
-    color: blue;
+    color: #45f3ff;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0.1cm;
@@ -111,7 +111,7 @@ body{
 
 .inputbox input:valid ~ span,
 .inputbox input:focus ~ span{
-    color: blue;
+    color: #45f3ff;
     transform: translateX(0px) translateY(-34px);
     font-size: 0.75em;
 }
@@ -122,7 +122,7 @@ body{
     bottom: 0;
     width: 100%;
     height: 2px;
-    background: blue;
+    background: #45f3ff;
     border-radius: 4px;
     transition: 0.5s;
     pointer-events: none;
@@ -149,7 +149,7 @@ body{
 
 .links a:hover 
 {
-    color: blue;
+    color: #45f3ff;
 }
 
 input[type="submit"]{
@@ -161,7 +161,7 @@ input[type="submit"]{
     border-radius: 4px;
     font-weight: 600;
     cursor: pointer;
-    background: blue;
+    background: #45f3ff;
 }
 
 input[type="submit"]:active{
