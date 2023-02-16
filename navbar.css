@@ -177,3 +177,8 @@ span{
 ul, li{
     font-weight: bold;
 }
+
+.logo{
+    padding: 15px;
+    margin-top: 50px;
+}
