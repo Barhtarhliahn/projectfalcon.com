@@ -131,11 +131,12 @@ overflow: hidden;
 }
 
 .images:hover .shape{
-    bottom: 40px;
+     bottom: -120px;
 }
 
 .images:hover .girl{
-    left: 45%;
+   left: -90%;
+    bottom: -30%;
 
 }
 
