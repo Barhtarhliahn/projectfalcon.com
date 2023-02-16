@@ -131,7 +131,7 @@ overflow: hidden;
 }
 
 .images:hover .shape{
-     bottom: -2000px;
+     bottom: -200px;
 }
 
 .images:hover .girl{
