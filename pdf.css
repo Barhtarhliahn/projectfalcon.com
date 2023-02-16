@@ -30,6 +30,6 @@ font-weight: bold;
 font-style: italic;
 }
 
-h1{
+h1, p{
     color: white;
 }
